@@ -17,4 +17,7 @@ class School
     @name = name
     @grade = grade
   end
+    
+  
+  
 end
