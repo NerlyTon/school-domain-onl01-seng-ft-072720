@@ -1,1 +1,4 @@
-class School(name)
+class School
+  def roster=(roster)
+    @roster = roster
+end
